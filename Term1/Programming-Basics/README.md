@@ -13,4 +13,4 @@ This is the foundation of everything in software development:
 - [freeCodeCamp - JavaScript Basics](https://www.freecodecamp.org)
 
 ---
-✨ *Goal: Build a strong programming base for modern frontend frameworks.*
+*Goal: Build a strong programming base for modern frontend frameworks.*
