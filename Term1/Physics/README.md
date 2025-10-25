@@ -9,7 +9,7 @@ Physics helps in understanding movement, forces, and motion — especially usefu
 - Physics-based effects in React Canvas or Three.js
 
 ### Learning Resources
-- [YouTube - دکتر بازرگان - فیزیک ۱](https://www.youtube.com)
+- [YouTube -  دانشگاه یوتیوب - فیزیک 1]([https://www.youtube.com](https://www.youtube.com/@vashahri_physics))
 - [Khan Academy – Physics: Forces and Motion](https://www.khanacademy.org/science/physics)
 
 
