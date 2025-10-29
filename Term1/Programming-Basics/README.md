@@ -8,6 +8,7 @@ This is the foundation of everything in software development:
 - All these concepts are directly used in JavaScript, TypeScript, and React
 
 ### Learning Resources
+- [NeonLearn Yutube - C++](https://www.youtube.com/watch?v=Ty213iefL20)
 - [مکتب‌خونه - مبانی برنامه‌نویسی](https://maktabkhooneh.org)
 - [Sabzlearn - آموزش جاوااسکریپت](https://sabzlearn.ir)
 - [freeCodeCamp - JavaScript Basics](https://www.freecodecamp.org)
