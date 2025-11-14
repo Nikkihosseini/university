@@ -9,6 +9,7 @@ It can be useful in:
 - Understanding curves, motion, and time-based behaviors in UI
 
 ### Learning Resources
+- [آپارات - ریاضی عمومی۱](https://www.aparat.com/playlist/316190)
 - [آپارات - ریاضی عمومی ۱ دکتر پرتوی](https://www.aparat.com)
 - [Khan Academy – Calculus 1](https://www.khanacademy.org/math/calculus-1)
 
