@@ -11,6 +11,6 @@ It can be useful in:
 ### Learning Resources
 - [آپارات - ریاضی عمومی۱](https://www.aparat.com/playlist/316190)
 - [آپارات - ریاضی عمومی ۱ دکتر پرتوی](https://www.aparat.com)
-
+- [اریان حیدری-یوتیوب](https://www.youtube.com/watch?v=m9BALiHSwmo&list=PLqTZ1FUhcV5BGyYgGB1n_ySDjuJl5ke7h)
 ---
 *Goal: Use calculus concepts to improve problem-solving and analytical thinking for coding.*
